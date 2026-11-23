@@ -1,0 +1,14 @@
+node_modules/
+.turbo/
+.next/
+dist/
+build/
+.expo/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
